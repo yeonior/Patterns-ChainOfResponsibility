@@ -20,6 +20,6 @@ final class CallCenter {
     }
     
     func receiveCall(question: String) {
-        print("Answer: \(specialist.answer(for: question))")
+        print(specialist.answer(for: question))
     }
 }

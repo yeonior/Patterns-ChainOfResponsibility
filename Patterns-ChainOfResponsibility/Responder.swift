@@ -29,6 +29,6 @@ final class Responder {
             return next.answer(for: question)
         }
         print("--- No answer!")
-        return "It can't be handled!"
+        return "Sorry! We'll call you later!"
     }
 }
