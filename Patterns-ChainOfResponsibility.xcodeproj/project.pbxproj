@@ -14,6 +14,7 @@
 		A2D5855E27AAAB2E00CB8B2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2D5855D27AAAB2E00CB8B2A /* Assets.xcassets */; };
 		A2D5856127AAAB2E00CB8B2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2D5855F27AAAB2E00CB8B2A /* LaunchScreen.storyboard */; };
 		A2D5856927AAAB5700CB8B2A /* Responder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D5856827AAAB5700CB8B2A /* Responder.swift */; };
+		A2D5856B27AAAFEE00CB8B2A /* CallCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D5856A27AAAFEE00CB8B2A /* CallCenter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A2D5856027AAAB2E00CB8B2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2D5856227AAAB2E00CB8B2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A2D5856827AAAB5700CB8B2A /* Responder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Responder.swift; sourceTree = "<group>"; };
+		A2D5856A27AAAFEE00CB8B2A /* CallCenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallCenter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A2D5855427AAAB2D00CB8B2A /* AppDelegate.swift */,
 				A2D5855627AAAB2D00CB8B2A /* SceneDelegate.swift */,
 				A2D5856827AAAB5700CB8B2A /* Responder.swift */,
+				A2D5856A27AAAFEE00CB8B2A /* CallCenter.swift */,
 				A2D5855827AAAB2D00CB8B2A /* ViewController.swift */,
 				A2D5855A27AAAB2D00CB8B2A /* Main.storyboard */,
 				A2D5855D27AAAB2E00CB8B2A /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				A2D5856927AAAB5700CB8B2A /* Responder.swift in Sources */,
 				A2D5855927AAAB2D00CB8B2A /* ViewController.swift in Sources */,
 				A2D5855527AAAB2D00CB8B2A /* AppDelegate.swift in Sources */,
+				A2D5856B27AAAFEE00CB8B2A /* CallCenter.swift in Sources */,
 				A2D5855727AAAB2D00CB8B2A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
